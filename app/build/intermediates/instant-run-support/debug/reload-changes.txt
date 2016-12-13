@@ -1,0 +1,15 @@
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$drawable$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$id$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$color$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$dimen$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$id$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$color$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$integer$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$layout$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$style$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$string$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$mipmap$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\shallowsmile\projectframwork\R$styleable$override.class
+CHANGED,F:\ASProject\ProjectFramwork\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$color$override.class
