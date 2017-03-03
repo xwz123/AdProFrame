@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\ASProject\\ProjectFramwork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_more_vert_white_24dp.png",
+        "source": "F:\\ASProject\\ProjectFramwork\\app\\src\\main\\res\\mipmap-xhdpi\\ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "F:\\ASProject\\ProjectFramwork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_arrow_back_white_24dp.png",
+        "source": "F:\\ASProject\\ProjectFramwork\\app\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "F:\\ASProject\\ProjectFramwork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_menu_white_24dp.png",
+        "source": "F:\\ASProject\\ProjectFramwork\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "F:\\ASProject\\ProjectFramwork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search_white_24dp.png",
+        "source": "F:\\ASProject\\ProjectFramwork\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "F:\\ASProject\\ProjectFramwork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\ASProject\\ProjectFramwork\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ASProject\\ProjectFramwork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_share_white_24dp.png",
+        "source": "F:\\ASProject\\ProjectFramwork\\app\\src\\main\\res\\mipmap-xhdpi\\ic_share_white_24dp.png"
+    }
+]

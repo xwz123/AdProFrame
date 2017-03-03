@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\ASProject\\ProjectFramwork\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\ASProject\\ProjectFramwork\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\ASProject\\ProjectFramwork\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nevmenu.xml",
+        "source": "F:\\ASProject\\ProjectFramwork\\app\\src\\main\\res\\menu\\nevmenu.xml"
+    }
+]
